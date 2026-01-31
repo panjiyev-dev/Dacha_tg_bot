@@ -1,5 +1,4 @@
 ﻿annotated-doc==0.0.4
-python-3.12.2
 annotated-types==0.7.0
 anyio==4.12.1
 APScheduler==3.11.2
@@ -23,5 +22,6 @@ typing_extensions==4.15.0
 tzdata==2025.3
 tzlocal==5.3.1
 uvicorn==0.40.0
+
 
 
